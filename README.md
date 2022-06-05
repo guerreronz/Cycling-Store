@@ -7,7 +7,7 @@ database called Bike Stores, since the database has several tables, I had to use
 
 ## Content
 
-The dataset includes information on sales, customer and data that could be find in retail stores. Also includes data about product, orders and prices.
+The dataset includes information on sales, customer and data that could be found in retail stores. Also includes data about product, orders and prices.
 
 The dataset comprises:
 
